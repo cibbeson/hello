@@ -1,3 +1,4 @@
 Hello World
 I'm feeling good
 testing pull request on github
+fixed merge issue
